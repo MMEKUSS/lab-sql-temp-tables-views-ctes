@@ -19,7 +19,7 @@ FROM customer ;
 SELECT *
 FROM customer_rental_summary;
 
--- Ejercicio 2Create a Temporary Table
+-- Ejercicio2Create a Temporary Table
 -- Next, create a Temporary Table that calculates the total amount paid by each customer (total_paid). 
 -- The Temporary Table should use the rental summary view created in Step 1 to join with the payment table and calculate the total amount paid by each customer.
 
